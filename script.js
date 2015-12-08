@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $('#page').load('./title.html');
+    $('#page').load('title.html');
 });
