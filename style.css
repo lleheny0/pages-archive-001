@@ -10,30 +10,3 @@
 body {
   background-color: #f0f0f0;
 }
-
-ol {
-  list-style-type: none;
-}
-
-.content-card {
-  margin: 0 auto;
-  padding: 20px;
-  text-align: center;
-  width: 600px;
-  height: 150px;
-  background-color: white;
-  border-top: solid 1px #e8e8e8;
-  border-left: solid 1px #e0e0e0;
-  border-right: solid 1px #e0e0e0;
-  border-bottom: solid 1px #d8d8d8;
-}
-
-#color-input-container {
-  margin-top: 45px;
-  font-size: 24px;
-}
-
-#color-input {
-  padding: 10px;
-  font-size: 24px;
-}
