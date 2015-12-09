@@ -11,6 +11,14 @@ body {
   background-color: #f0f0f0;
 }
 
-ol {
+#nav {
+  padding: 0;
   list-style-type: none;
+}
+
+.nav-item {
+  display: inline;
+  padding: 5px;
+  background-color: #d0d0d0;
+  cursor: pointer;
 }

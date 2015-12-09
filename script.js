@@ -1,3 +1,12 @@
+function setupLinks(pages) {
+    $.each(pages, function(index, element) {
+        $('#nav-' + element).click(function() {
+            $('#container').load(element + '.html');
+        });
+    });
+}
+
 $(document).ready(function() {
-    $('#page').load('title.html');
+    setupLinks(['home', 'hex']);
+    $('#container').load('home.html');
 });
