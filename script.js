@@ -8,5 +8,5 @@ function setupLinks(pages) {
 
 $(document).ready(function() {
     setupLinks(['home', 'hex']);
-    $('#container').load('home.html');
+    $('#container').load('hex.html');
 });

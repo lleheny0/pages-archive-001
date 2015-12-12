@@ -38,12 +38,29 @@ body {
   background-color: #505050;
 }
 
-.title {
+.header {
   height: 100px;
-  padding-bottom: 15px;
   text-align: center;
-  font-size: 24px;
+  background-color: #303030;
+}
+
+h1, h3 {
+  padding-bottom: 15px;
   font-family: 'Roboto Slab';
   color: #fff;
-  background-color: #303030;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#hex-display-container {
+  width: 100%;
+  white-space: nowrap;
+}
+
+.hex-display {
+  display: inline-block;
+  width: 50%;
+  height: 100%;
 }
