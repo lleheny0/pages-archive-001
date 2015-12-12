@@ -6,6 +6,7 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 *:focus {
@@ -54,6 +55,24 @@ h1 {
   font-size: 50px;
 }
 
+#hex-input-container {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+
+#hex-input {
+  border: none;
+  border-radius: 4px;
+  padding: 5px;
+  background-color: #505050;
+  color: white;
+  font-family: 'Roboto Slab';
+  font-size: 16px;
+  width: 100px;
+  font-weight: bold;
+}
+
 #hex-display-container {
   width: 100%;
   white-space: nowrap;
@@ -63,4 +82,15 @@ h1 {
   display: inline-block;
   width: 50%;
   height: 100%;
+  font-family: 'Roboto Slab';
+}
+
+#hex-display-text {
+  color: black;
+  background-color: white;
+}
+
+#hex-display-background {
+  color: white;
+  background-color: black;
 }
