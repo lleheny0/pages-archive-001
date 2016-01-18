@@ -1,12 +1,28 @@
-function setupLinks(pages) {
-    $.each(pages, function(index, element) {
-        $('#nav-' + element).click(function() {
-            $('#container').load(element + '.html');
-        });
-    });
-}
+/* global $ */
+
+var movies = [
+  'Mouse Hunt',
+  'Lord of the Rings',
+  'Chicken Run',
+  'Memento',
+  'Shawshank Redemption',
+  'Borat',
+  'Scoop',
+  'Shutter Island',
+  'Hook',
+  'Jumanji',
+  'Zathura',
+  'American Beauty',
+  'Clockwork Orange',
+  'Be Kind Rewind',
+  'Fargo'
+];
 
 $(document).ready(function() {
-    setupLinks(['home', 'hex']);
-    $('#container').load('hex.html');
+  $('input[type=button]').click(function() {
+    $('#title').html('');
+  })
+  $('#movie-button').click(function() {
+    $('#title').html(movies[Math.floor(Math.random() * movies.length)]);
+  });
 });

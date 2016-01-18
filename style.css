@@ -13,86 +13,48 @@
   outline: none;
 }
 
-body {
-  background-color: #f0f0f0;
-}
-
-#nav {
-  background-color: #303030;
-}
-
-.nav-item {
-  display: inline-block;
-  margin: 7px 0 7px 7px;
-  padding: 7px;
-  border: none;
-  border-radius: 4px;
-  border: none;
-  transition: background-color 0.5s ease;
-  color: white;
-  font-family: 'Roboto';
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.nav-item:hover {
-  background-color: #505050;
-}
-
-.header {
-  height: 100px;
-  text-align: center;
-  background-color: #303030;
-}
-
-h1, h3 {
-  padding-bottom: 15px;
-  font-family: 'Roboto Slab';
-  color: #fff;
-}
-
-h1 {
-  font-size: 50px;
-}
-
-#hex-input-container {
-  font-weight: bold;
-  font-size: 20px;
-  color: white;
-  font-family: 'Roboto Slab';
-  font-weight: bold;
-}
-
-#hex-input {
-  border: none;
-  border-radius: 4px;
-  padding: 5px;
-  background-color: #505050;
-  color: white;
-  font-family: 'Roboto Slab';
-  font-size: 16px;
-  width: 100px;
-  font-weight: bold;
-}
-
-#hex-display-container {
-  width: 100%;
-  white-space: nowrap;
-}
-
-.hex-display {
-  display: inline-block;
-  width: 50%;
+html {
   height: 100%;
-  font-family: 'Roboto Slab';
 }
 
-#hex-display-text {
-  color: black;
-  background-color: white;
+body {
+  background-color: #d8d8d8;
+  text-align: center;
+  height: 100%;
 }
 
-#hex-display-background {
+input[type=button] {
+  margin: 10px 5px 0px 5px;
+  padding: 10px;
+  border: none;
+  font-family: "Roboto";
   color: white;
-  background-color: black;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.125);
+  font-size: 16px;
+  background-color: #a8a;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 4px #878;
+  transform: translateY(-4px);
+  font-weight: bold;
+}
+
+input[type=button]:hover {
+  background-color: #b8b;
+}
+
+input[type=button]:active {
+  transform: translateY(0);
+  background-color: #b8b;
+  box-shadow: none;
+}
+
+#title {
+  position: relative;
+  top: 30%;
+  margin: 10px;
+  padding: 40px;
+  font-size: 72pt;
+  font-family: "Roboto Slab";
+  text-shadow: 0 1px 0px rgba(255, 255, 255, 1);
 }
