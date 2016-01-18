@@ -6,7 +6,6 @@ var movies = [
   'Chicken Run',
   'Memento',
   'Shawshank Redemption',
-  'Borat',
   'Scoop',
   'Shutter Island',
   'Hook',
