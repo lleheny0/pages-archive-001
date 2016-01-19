@@ -25,7 +25,8 @@ var shows = [
   'Breaking Bad',
   'That 70s Show',
   'Arrested Development',
-  'Modern Family'
+  'Modern Family',
+  'Rick and Morty'
 ];
 
 var games = [
