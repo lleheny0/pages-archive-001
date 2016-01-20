@@ -1,60 +1,63 @@
 /* global $ */
 
-var movies = [
-  'Mouse Hunt',
-  'Lord of the Rings',
-  'Chicken Run',
-  'Memento',
-  'Shawshank Redemption',
-  'Scoop',
-  'Shutter Island',
-  'Hook',
-  'Jumanji',
-  'Zathura',
-  'American Beauty',
-  'Clockwork Orange',
-  'Be Kind Rewind',
-  'Fargo'
-];
-
-var shows = [
-  'Scrubs',
-  'Game of Thrones',
-  'Always Sunny',
-  'The X Files',
-  'Breaking Bad',
-  'That 70s Show',
-  'Arrested Development',
-  'Modern Family',
-  'Rick and Morty'
-];
-
-var games = [
-  'Minecraft',
-  'Beyond Two Souls',
-  'Far Cry 4',
-  'Heavy Rain',
-  'Kingdom Hearts',
-  'Ni No Kuni',
-  'Little Big Planet',
-  'The Last of Us',
-  'Animal Crossing',
-  'Fallout 3',
-  'Fallout New Vegas',
-  'Mass Effect'
-];
+var data = {
+  '#movie-button' : [
+    'Mouse Hunt',
+    'Lord of the Rings',
+    'Chicken Run',
+    'Memento',
+    'Shawshank Redemption',
+    'Scoop',
+    'Shutter Island',
+    'Hook',
+    'Jumanji',
+    'Zathura',
+    'American Beauty',
+    'Clockwork Orange',
+    'Be Kind Rewind',
+    'Fargo'
+  ],
+  '#game-button' : [
+    'Minecraft',
+    'Beyond Two Souls',
+    'Far Cry 4',
+    'Heavy Rain',
+    'Kingdom Hearts',
+    'Ni No Kuni',
+    'Little Big Planet',
+    'The Last of Us',
+    'Animal Crossing',
+    'Fallout 3',
+    'Fallout New Vegas',
+    'Mass Effect'
+  ],
+  '#show-button' : [
+    'Scrubs',
+    'Game of Thrones',
+    'Always Sunny',
+    'The X Files',
+    'Breaking Bad',
+    'That 70s Show',
+    'Arrested Development',
+    'Modern Family',
+    'Rick and Morty'
+  ],
+  '#chore-button' : [
+    'Laundry',
+    'Dishes',
+    'Organizing',
+    'Sweeping',
+    'Fridge',
+    'Trash',
+    'Shopping',
+    'Bills'
+  ]
+};
 
 $(document).ready(function() {
-  $('input[type=button]').click(function() {
-    $('#title').html('');
-  });
-  $('#movie-button').click(function() {
-    $('#title').html(movies[Math.floor(Math.random() * movies.length)]);
-  });
-  $('#show-button').click(function() {
-    $('#title').html(shows[Math.floor(Math.random() * shows.length)]);
-  });
-  $('#game-button').click(function() {
-    $('#title').html(games[Math.floor(Math.random() * games.length)]);
+  $.each(data, function(key, value) {
+    $(key).click(function() {
+      $('#title').html(value[Math.floor(Math.random() * value.length)]);
+    });
   });
 });

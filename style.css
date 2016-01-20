@@ -28,25 +28,17 @@ input[type=button] {
   padding: 10px;
   border: none;
   font-family: "Roboto";
-  color: white;
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.125);
-  font-size: 16px;
-  background-color: #a8a;
-  border-radius: 4px;
+  font-size: 20px;
   cursor: pointer;
-  box-shadow: 0 4px #878;
-  transform: translateY(-4px);
-  font-weight: bold;
+  background-color: transparent;
 }
 
 input[type=button]:hover {
-  background-color: #b8b;
+  color: #3090f0;
+  box-shadow: 0 4px #1070d0;
 }
 
 input[type=button]:active {
-  transform: translateY(0);
-  background-color: #b8b;
-  box-shadow: none;
 }
 
 #title {
