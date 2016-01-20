@@ -56,9 +56,9 @@ var data = {
 };
 
 $(document).ready(function() {
-  $.each(data, function(key, value) {
-    $(key).click(function() {
-      $('#title').html(value[Math.floor(Math.random() * value.length)]);
+  $.each(data, function(tag, titles) {
+    $(tag).click(function() {
+      $('#title').html(titles[Math.floor(Math.random() * titles.length)]);
     });
   });
 });
