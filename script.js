@@ -15,7 +15,8 @@ var data = {
     'American Beauty',
     'Clockwork Orange',
     'Be Kind Rewind',
-    'Fargo'
+    'Fargo',
+    'Yellow Submarine'
   ],
   '#game-button' : [
     'Minecraft',
@@ -29,7 +30,8 @@ var data = {
     'Animal Crossing',
     'Fallout 3',
     'Fallout New Vegas',
-    'Mass Effect'
+    'Mass Effect',
+    'Bioshock Infinite'
   ],
   '#show-button' : [
     'Scrubs',
