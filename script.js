@@ -31,7 +31,8 @@ var data = {
     'Fallout 3',
     'Fallout New Vegas',
     'Mass Effect',
-    'Bioshock Infinite'
+    'Bioshock Infinite',
+    'Skyrim'
   ],
   '#show-button' : [
     'Scrubs',
