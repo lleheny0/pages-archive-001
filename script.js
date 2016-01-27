@@ -46,7 +46,8 @@ var data = {
     'That 70s Show',
     'Arrested Development',
     'Modern Family',
-    'Rick and Morty'
+    'Rick and Morty',
+    'Fawlty Towers'
   ],
   '#chore-button' : [
     'Laundry',
