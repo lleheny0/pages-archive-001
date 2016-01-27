@@ -17,9 +17,6 @@ var data = {
     'Be Kind Rewind',
     'Fargo',
     'Yellow Submarine',
-    'Alice',
-    'Neverland',
-    'Tin Man'
   ],
   '#game-button' : [
     'Minecraft',
@@ -35,7 +32,8 @@ var data = {
     'Fallout New Vegas',
     'Mass Effect',
     'Bioshock Infinite',
-    'Skyrim'
+    'Skyrim',
+    'Who\'s Your Daddy'
   ],
   '#show-button' : [
     'Scrubs',
@@ -47,7 +45,11 @@ var data = {
     'Arrested Development',
     'Modern Family',
     'Rick and Morty',
-    'Fawlty Towers'
+    'Fawlty Towers',
+    'Adventure Time',
+    'Alice',
+    'Neverland',
+    'Tin Man'
   ],
   '#chore-button' : [
     'Laundry',
