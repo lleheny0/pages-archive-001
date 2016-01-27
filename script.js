@@ -16,7 +16,10 @@ var data = {
     'Clockwork Orange',
     'Be Kind Rewind',
     'Fargo',
-    'Yellow Submarine'
+    'Yellow Submarine',
+    'Alice',
+    'Neverland',
+    'Tin Man'
   ],
   '#game-button' : [
     'Minecraft',
