@@ -60,7 +60,8 @@ var data = {
     'Trash',
     'Shopping',
     'Bills',
-    'Bathtub'
+    'Bathtub',
+    'Clean car'
   ]
 };
 
