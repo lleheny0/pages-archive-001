@@ -1,5 +1,3 @@
-/* global $ */
-
 var data = {
     '#movie-button': [
         'Mouse Hunt',
@@ -16,7 +14,7 @@ var data = {
         'Clockwork Orange',
         'Be Kind Rewind',
         'Fargo',
-        'Yellow Submarine',
+        'Yellow Submarine'
     ],
     '#game-button': [
         'Minecraft',
