@@ -33,7 +33,8 @@ var data = {
         'Skyrim',
         'Who\'s Your Daddy',
         'Thief',
-        'Dark Souls'
+        'Dark Souls',
+        'Eldritch'
     ],
     '#show-button': [
         'Scrubs',
