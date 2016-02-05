@@ -31,7 +31,9 @@ var data = {
         'Mass Effect',
         'Bioshock Infinite',
         'Skyrim',
-        'Who\'s Your Daddy'
+        'Who\'s Your Daddy',
+        'Thief',
+        'Dark Souls'
     ],
     '#show-button': [
         'Scrubs',
