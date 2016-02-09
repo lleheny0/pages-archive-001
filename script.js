@@ -10,13 +10,15 @@ var data = {
         'Hook',
         'Jumanji',
         'Zathura',
-        //'American Beauty',
-        'Clockwork Orange',
-        'Be Kind Rewind',
         'Fargo',
+        'Clockwork Orange',
+        'Dreams',
+        'Rush Hour',
+        'Burn After Reading'
+        //'American Beauty',
+        //'Be Kind Rewind',
         //'Yellow Submarine',
-        //'Interstellar',
-        'Dreams'
+        //'Interstellar'
     ],
     '#game-button': [
         'Minecraft',
