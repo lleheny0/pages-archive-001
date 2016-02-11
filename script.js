@@ -13,7 +13,10 @@ var data = {
         'Clockwork Orange',
         'Dreams',
         'Rush Hour',
-        'Burn After Reading'
+        'Burn After Reading',
+        'Men Who Stare At Goats',
+        'Inglorious Basterds',
+        'Up in the Air'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
