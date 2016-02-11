@@ -16,7 +16,8 @@ var data = {
         'Burn After Reading',
         'Men Who Stare At Goats',
         'Inglorious Basterds',
-        'Up in the Air'
+        'Up in the Air',
+        'A Bug\'s Life'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
