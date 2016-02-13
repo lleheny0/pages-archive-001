@@ -19,7 +19,8 @@ var data = {
         'Up in the Air',
         'A Bug\'s Life',
         'Your Highness',
-        'Invasion of the Body Snatchers'
+        'Invasion of the Body Snatchers',
+        'Whisper of the Heart'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
