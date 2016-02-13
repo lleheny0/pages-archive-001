@@ -20,7 +20,8 @@ var data = {
         'A Bug\'s Life',
         'Your Highness',
         'Invasion of the Body Snatchers',
-        'Whisper of the Heart'
+        'Whisper of the Heart',
+        'Home Alone'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
