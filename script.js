@@ -18,7 +18,8 @@ var data = {
         'Inglorious Basterds',
         'Up in the Air',
         'A Bug\'s Life',
-        'Your Highness'
+        'Your Highness',
+        'Invasion of the Body Snatchers'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
