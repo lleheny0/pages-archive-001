@@ -24,7 +24,8 @@ var data = {
         'Home Alone',
         'Porco Rosso',
         'Only Yesterday',
-        'Hannibal\'s Netflix Thing'
+        'Hannibal\'s Netflix Thing',
+        'The Cat Returns'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
