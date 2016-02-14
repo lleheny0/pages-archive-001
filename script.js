@@ -21,7 +21,9 @@ var data = {
         'Your Highness',
         'Invasion of the Body Snatchers',
         'Whisper of the Heart',
-        'Home Alone'
+        'Home Alone',
+        'Porco Rosso',
+        'Only Yesterday'
         //'Fargo'
         //'American Beauty',
         //'Be Kind Rewind',
