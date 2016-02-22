@@ -1,5 +1,7 @@
 var data = {
     '#movie-button': [
+        'American Beauty',
+        'Whisper of the Heart',
         'Mouse Hunt',
         'Lord of the Rings',
         'Chicken Run',
@@ -20,14 +22,13 @@ var data = {
         'A Bug\'s Life',
         'Your Highness',
         'Invasion of the Body Snatchers',
-        'Whisper of the Heart',
         'Home Alone',
-        'Porco Rosso',
         'Only Yesterday',
-        'Hannibal\'s Netflix Thing',
-        'The Cat Returns'
+        'The Cat Returns',
+        'Princess Kaguya'
+        //'Hannibal\'s Netflix Thing',
+        //'Porco Rosso',
         //'Fargo'
-        //'American Beauty',
         //'Be Kind Rewind',
         //'Yellow Submarine',
         //'Interstellar',
