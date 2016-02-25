@@ -15,7 +15,6 @@ var data = {
         'Clockwork Orange',
         'Dreams',
         'Rush Hour',
-        'Burn After Reading',
         'Men Who Stare At Goats',
         'Inglorious Basterds',
         'Up in the Air',
@@ -26,6 +25,7 @@ var data = {
         'Only Yesterday',
         'The Cat Returns',
         'Princess Kaguya'
+        //'Burn After Reading',
         //'Hannibal\'s Netflix Thing',
         //'Porco Rosso',
         //'Fargo'
