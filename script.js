@@ -7,7 +7,6 @@ var data = {
         'Chicken Run',
         'Memento',
         'Shawshank Redemption',
-        'Scoop',
         'Shutter Island',
         'Hook',
         'Jumanji',
@@ -25,6 +24,7 @@ var data = {
         'Only Yesterday',
         'The Cat Returns',
         'Princess Kaguya'
+        //'Scoop',
         //'Burn After Reading',
         //'Hannibal\'s Netflix Thing',
         //'Porco Rosso',
