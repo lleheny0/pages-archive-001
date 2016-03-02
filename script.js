@@ -12,7 +12,6 @@ var data = {
         'Jumanji',
         'Zathura',
         'Clockwork Orange',
-        'Dreams',
         'Rush Hour',
         'Men Who Stare At Goats',
         'Inglorious Basterds',
@@ -24,6 +23,7 @@ var data = {
         'Only Yesterday',
         'The Cat Returns',
         'Princess Kaguya'
+        //'Dreams',
         //'Scoop',
         //'Burn After Reading',
         //'Hannibal\'s Netflix Thing',
