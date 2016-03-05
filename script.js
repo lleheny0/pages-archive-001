@@ -11,8 +11,7 @@ var data = {
         'Hook',
         'Jumanji',
         'Zathura',
-        'Clockwork Orange',
-        'Rush Hour',
+        //'Clockwork Orange',
         'Men Who Stare At Goats',
         'Inglorious Basterds',
         'Up in the Air',
@@ -22,7 +21,10 @@ var data = {
         'Home Alone',
         'Only Yesterday',
         'The Cat Returns',
-        'Princess Kaguya'
+        'Princess Kaguya',
+        'Young Frankenstein',
+        'Blazing Saddles'
+        //'Rush Hour',
         //'Dreams',
         //'Scoop',
         //'Burn After Reading',
