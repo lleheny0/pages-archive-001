@@ -18,12 +18,13 @@ var data = {
         'A Bug\'s Life',
         'Your Highness',
         'Invasion of the Body Snatchers',
-        'Home Alone',
         'Only Yesterday',
         'The Cat Returns',
         'Princess Kaguya',
         'Young Frankenstein',
         'Blazing Saddles'
+        'Home Alone 2'
+        //'Home Alone',
         //'Rush Hour',
         //'Dreams',
         //'Scoop',
