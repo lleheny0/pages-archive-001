@@ -22,7 +22,7 @@ var data = {
         'The Cat Returns',
         'Princess Kaguya',
         'Young Frankenstein',
-        'Blazing Saddles'
+        'Blazing Saddles',
         'Home Alone 2',
         'Santa Clause',
         'Meet the Patels'
