@@ -23,7 +23,9 @@ var data = {
         'Princess Kaguya',
         'Young Frankenstein',
         'Blazing Saddles'
-        'Home Alone 2'
+        'Home Alone 2',
+        'Santa Clause',
+        'Meet the Patels'
         //'Home Alone',
         //'Rush Hour',
         //'Dreams',
