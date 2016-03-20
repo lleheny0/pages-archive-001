@@ -12,7 +12,6 @@ var data = {
         'Jumanji',
         'Zathura',
         //'Clockwork Orange',
-        'Men Who Stare At Goats',
         'Inglorious Basterds',
         'Up in the Air',
         'A Bug\'s Life',
@@ -24,7 +23,9 @@ var data = {
         'Young Frankenstein',
         'Blazing Saddles',
         'Santa Clause',
-        'Meet the Patels'
+        'Meet the Patels',
+        'Pirates of the Caribbean'
+        //'Men Who Stare At Goats',
         //'Home Alone 2',
         //'Home Alone',
         //'Rush Hour',
