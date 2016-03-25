@@ -4,14 +4,12 @@ var data = {
         'Whisper of the Heart',
         'Mouse Hunt',
         'Lord of the Rings',
-        //'Chicken Run',
         'Memento',
         'Shawshank Redemption',
         'Shutter Island',
         'Hook',
         'Jumanji',
         'Zathura',
-        //'Clockwork Orange',
         'Inglorious Basterds',
         'Up in the Air',
         'A Bug\'s Life',
@@ -25,6 +23,8 @@ var data = {
         'Santa Clause',
         'Meet the Patels',
         'Pirates of the Caribbean'
+        //'Chicken Run',
+        //'Clockwork Orange'
         //'Men Who Stare At Goats',
         //'Home Alone 2',
         //'Home Alone',
