@@ -7,7 +7,6 @@ var data = {
         'Memento',
         'Shawshank Redemption',
         'Shutter Island',
-        'Hook',
         'Jumanji',
         'Zathura',
         'Inglorious Basterds',
@@ -22,7 +21,11 @@ var data = {
         'Blazing Saddles',
         'Santa Clause',
         'Meet the Patels',
-        'Pirates of the Caribbean'
+        'Pirates of the Caribbean',
+        'Alice',
+        'Neverland',
+        'Tin Man'
+        //'Hook',
         //'Chicken Run',
         //'Clockwork Orange'
         //'Men Who Stare At Goats',
@@ -71,10 +74,7 @@ var data = {
         'Modern Family',
         'Rick and Morty',
         'Fawlty Towers',
-        'Adventure Time',
-        'Alice',
-        'Neverland',
-        'Tin Man'
+        'Adventure Time'
     ],
     '#chore-button': [
         'Laundry',
