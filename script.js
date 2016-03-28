@@ -24,7 +24,8 @@ var data = {
         'Pirates of the Caribbean',
         'Alice',
         'Neverland',
-        'Tin Man'
+        'Tin Man',
+        'Clueless'
         //'Hook',
         //'Chicken Run',
         //'Clockwork Orange'
